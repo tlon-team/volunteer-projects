@@ -6,7 +6,7 @@ Below, we list several dozen articles relevant form an EA-perspective, grouped b
 
 If you are not familiar with Wikipedia, check out the article in the first paragraph, especially [[https://forum.effectivealtruism.org/posts/FebKgHaAymjiETvXd/wikipedia-editing-is-important-tractable-and-neglected#6__Getting_Started_as_a_Wikipedia_Editor][section 6]].
 
-Finally, if you have any questions or comments, feel free to reach out to Pablo. His email is his first name followed by at followed by ~tlon.team~.
+Finally, if you have any questions or comments, feel free to reach out to Pablo. His email is his first name followed by ~@~ followed by ~tlon.team~.
 
 **** High priority
 :PROPERTIES:
