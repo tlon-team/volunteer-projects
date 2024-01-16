@@ -1,0 +1,97 @@
+#+title: Wikipedia articles
+
+We are occasionally approached by dedicated altruists willing to volunteer their time to translate relevant EA content. Currently, we lack the capacity to integrate volunteer labor into our highly complex workflow. However, we think that volunteers can still make a very valuable contribution to this project /by focusing Wikipedia articles/. Although translating or (when they already exist in the target language) improving such articles [[https://forum.effectivealtruism.org/posts/FebKgHaAymjiETvXd/wikipedia-editing-is-important-tractable-and-neglected][can have a lot impact]], we have chosen not to focus on such articles ourselves because Wikipedia’s paid editing policy would require us to disclose each edit, which is a lot of hassle. Non-paid contributors, however, are exempt from this requirement, making the translation or improvement of Wikipedia articles an ideal task for volunteers.
+
+Below, we list several dozen articles relevant form an EA-perspective, grouped by priority. We encourage you to focus on the high-priority articles, though feel free to instead tackle medium- or even low-priority articles if those topics motivate you more.
+
+If you are not familiar with Wikipedia, check out the article in the first paragraph, especially [[https://forum.effectivealtruism.org/posts/FebKgHaAymjiETvXd/wikipedia-editing-is-important-tractable-and-neglected#6__Getting_Started_as_a_Wikipedia_Editor][section 6]].
+
+Finally, if you have any questions or comments, feel free to reach out to Pablo. His email is his first name followed by at followed by ~tlon.team~.
+
+**** High priority
+:PROPERTIES:
+:ID:       9FBE4D4C-B62E-4512-8EDC-64DD482E57CC
+:END:
+
+[[https://en.wikipedia.org/wiki/AI_alignment][AI alignment]]
+[[https://en.wikipedia.org/wiki/AI_safety][AI safety]]
+[[https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence][Existential risk from artificial general intelligence]]
+[[https://en.wikipedia.org/wiki/Global_catastrophic_risk][Global catastrophic risk]]
+[[https://en.wikipedia.org/wiki/Global_health][Global health]]
+[[https://en.wikipedia.org/wiki/Intensive_animal_farming][Intensive animal farming]]
+
+**** Medium priority
+:PROPERTIES:
+:ID:       0C4C14C2-296A-4249-9460-1BAFC86B54FF
+:END:
+[[https://en.wikipedia.org/wiki/80,000_Hours][80,000 Hours]]
+[[https://en.wikipedia.org/wiki/Against_Malaria_Foundation][Against Malaria Foundation]]
+[[https://en.wikipedia.org/wiki/Aid_effectiveness][Aid effectiveness]]
+[[https://en.wikipedia.org/wiki/Anti-nuclear_movement][Anti-nuclear movement]]
+[[https://en.wikipedia.org/wiki/Biotechnology_risk][Biotechnology risk]]
+[[https://en.wikipedia.org/wiki/Centre_for_Effective_Altruism][Centre for Effective Altruism]]
+[[https://en.wikipedia.org/wiki/Charity_assessment][Charity assessment]]
+[[https://en.wikipedia.org/wiki/Climate_change][Climate change]]
+[[https://en.wikipedia.org/wiki/Cultured_meat][Cultured meat]]
+[[https://en.wikipedia.org/wiki/Demandingness_objection][Demandingness objection]]
+[[https://en.wikipedia.org/wiki/Derek_Parfit][Derek Parfit]]
+[[https://en.wikipedia.org/wiki/Disability-adjusted_life_year][Disability-adjusted life year]]
+[[https://en.wikipedia.org/wiki/Disease_burden][Disease burden]]
+[[https://en.wikipedia.org/wiki/Earning_to_give][Earning to give]]
+[[https://en.wikipedia.org/wiki/Effective_altruism][Effective altruism]]
+[[https://en.wikipedia.org/wiki/Eliezer_Yudkowsky][Eliezer Yudkowsky]]
+[[https://en.wikipedia.org/wiki/Equal_consideration_of_interests][Equal consideration of interests]]
+[[https://en.wikipedia.org/wiki/Future_of_Humanity_Institute][Future of Humanity Institute]]
+[[https://en.wikipedia.org/wiki/GiveDirectly][GiveDirectly]]
+[[https://en.wikipedia.org/wiki/GiveWell][GiveWell]]
+[[https://en.wikipedia.org/wiki/Giving_What_We_Can][Giving What We Can]]
+[[https://en.wikipedia.org/wiki/Land_use][Land use]]
+[[https://en.wikipedia.org/wiki/Longtermism][Longtermism]]
+[[https://en.wikipedia.org/wiki/Machine_Intelligence_Research_Institute][Machine Intelligence Research Institute]]
+[[https://en.wikipedia.org/wiki/Malaria#Prevention][Malaria]]
+[[https://en.wikipedia.org/wiki/Mass_deworming][Mass deworming]]
+[[https://en.wikipedia.org/wiki/Moral_circle_expansion][Moral circle expansion]]
+[[https://en.wikipedia.org/wiki/Neglected_tropical_diseases][Neglected tropical diseases]]
+[[https://en.wikipedia.org/wiki/Nick_Bostrom][Nick Bostrom]]
+[[https://en.wikipedia.org/wiki/Open_Philanthropy][Open Philanthropy]]
+[[https://en.wikipedia.org/wiki/Our_World_in_Data][Our World in Data]]
+[[https://en.wikipedia.org/wiki/Peter_Singer][Peter Singer]]
+[[https://en.wikipedia.org/wiki/Psychological_barriers_to_effective_altruism][Psychological barriers to effective altruism]]
+[[https://en.wikipedia.org/wiki/Quality-adjusted_life_year][Quality-adjusted life year]]
+[[https://en.wikipedia.org/wiki/Space_and_survival][Space and survival]]
+[[https://en.wikipedia.org/wiki/Suffering_risks][Suffering risks]]
+[[https://en.wikipedia.org/wiki/Toby_Ord][Toby Ord]]
+[[https://en.wikipedia.org/wiki/Utilitarianism][Utilitarianism]]
+[[https://en.wikipedia.org/wiki/Wild_animal_suffering][Wild animal suffering]]
+[[https://en.wikipedia.org/wiki/William_MacAskill][William MacAskill]]
+
+**** Low priority
+:PROPERTIES:
+:ID:       39A623B4-E40B-43E4-A78A-9CA6BD9D1CDF
+:END:
+
+[[https://en.wikipedia.org/wiki/Animal_Charity_Evaluators][Animal Charity Evaluators]]
+[[https://en.wikipedia.org/wiki/Animal_Ethics_(organization)][Animal Ethics]]
+[[https://en.wikipedia.org/wiki/Cari_Tuna][Cari Tuna]]
+[[https://en.wikipedia.org/wiki/Center_for_High_Impact_Philanthropy][Center for High Impact Philanthropy]]
+[[https://en.wikipedia.org/wiki/Centre_for_Enabling_EA_Learning_%26_Research][Centre for Enabling EA Learning & Research]]
+[[https://en.wikipedia.org/wiki/Centre_for_the_Study_of_Existential_Risk][Centre for the Study of Existential Risk]]
+[[https://en.wikipedia.org/wiki/Development_Media_International][Development Media International]]
+[[https://en.wikipedia.org/wiki/Dustin_Moskovitz][Dustin Moskovitz]]
+[[https://en.wikipedia.org/wiki/Faunalytics][Faunalytics]]
+[[https://en.wikipedia.org/wiki/Fistula_Foundation][Fistula Foundation]]
+[[https://en.wikipedia.org/wiki/Founders_Pledge][Founders Pledge]]
+[[https://en.wikipedia.org/wiki/Future_of_Life_Institute][Future of Life Institute]]
+[[https://en.wikipedia.org/wiki/Good_Ventures][Good Ventures]]
+[[https://en.wikipedia.org/wiki/Hilary_Greaves][Hilary Greaves]]
+[[https://en.wikipedia.org/wiki/Holden_Karnofsky][Holden Karnofsky]]
+[[https://en.wikipedia.org/wiki/Liv_Boeree][Liv Boeree]]
+[[https://en.wikipedia.org/wiki/Malaria_Consortium][Malaria Consortium]]
+[[https://en.wikipedia.org/wiki/Mercy_for_Animals][Mercy for Animals]]
+[[https://en.wikipedia.org/wiki/Nuclear_Threat_Initiative][Nuclear Threat Initiative]]
+[[https://en.wikipedia.org/wiki/Raising_for_Effective_Giving][Raising for Effective Giving]]
+[[https://en.wikipedia.org/wiki/The_Good_Food_Institute][The Good Food Institute]]
+[[https://en.wikipedia.org/wiki/The_Humane_League][The Humane League]]
+[[https://en.wikipedia.org/wiki/Yew-Kwang_Ng][Yew-Kwang Ng]]
+
+
