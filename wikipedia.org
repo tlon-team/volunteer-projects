@@ -8,7 +8,7 @@ If you never edited Wikipedia before, check out the article in the first paragra
 
 Finally, if you have any questions or comments, feel free to reach out to me (Pablo). My email is my first name followed by ~@~ followed by ~tlon.team~.
 
-**** High priority
+**** Top priority
 :PROPERTIES:
 :ID:       9FBE4D4C-B62E-4512-8EDC-64DD482E57CC
 :END:
@@ -20,7 +20,7 @@ Finally, if you have any questions or comments, feel free to reach out to me (Pa
 - [[https://en.wikipedia.org/wiki/Global_health][Global health]]
 - [[https://en.wikipedia.org/wiki/Intensive_animal_farming][Intensive animal farming]]
 
-**** Medium priority
+**** High priority
 :PROPERTIES:
 :ID:       0C4C14C2-296A-4249-9460-1BAFC86B54FF
 :END:
@@ -66,7 +66,7 @@ Finally, if you have any questions or comments, feel free to reach out to me (Pa
 - [[https://en.wikipedia.org/wiki/Wild_animal_suffering][Wild animal suffering]]
 - [[https://en.wikipedia.org/wiki/William_MacAskill][William MacAskill]]
 
-**** Low priority
+**** Also important
 :PROPERTIES:
 :ID:       39A623B4-E40B-43E4-A78A-9CA6BD9D1CDF
 :END:
