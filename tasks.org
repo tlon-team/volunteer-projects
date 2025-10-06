@@ -1,9 +1,5 @@
 #+title: Tasks for volunteers
 
-* Tasks for volunteers
-:PROPERTIES:
-:ID:       38D9ACCA-B470-4D35-8500-A82ADA5B0519
-:END:
 - [ ] Find missing translations in =ea.international=
 - [ ] Improve graphic design of some websites
 - [ ] Help us model the value of translation work
