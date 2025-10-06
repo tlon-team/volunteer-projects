@@ -1,0 +1,16 @@
+#+title: Tasks for volunteers
+
+* Tasks for volunteers
+:PROPERTIES:
+:ID:       38D9ACCA-B470-4D35-8500-A82ADA5B0519
+:END:
+- [ ] Find missing translations in =ea.international=
+- [ ] Improve graphic design of some websites
+- [ ] Help us model the value of translation work
+- [ ] Improve our understanding of marketing
+- [ ] Improve our online social presence
+- [X] Research the state of Chinese translations
+- [ ] Provide feedback on various things we are experimenting with or exploring, e.g. the multilingual podcast idea or the =ea.international= prototype
+- [ ] General research on alternative machine translation methods
+- [ ] Familiarizing yourself with the French EA community (primarily via their Slack channel)
+- [ ] Starting some sort of Wikipedia translation project.
